@@ -1,0 +1,57 @@
+{
+  "name": "azemetre",
+  "version": "1.0.0",
+  "description": "\"npx azemetre\" - to see my business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "issues": "git-issues",
+    "license": "license-checker --production --onlyunknown --csv",
+    "demo": "node ./src",
+    "unused-deps": "dependency-check --unused --no-dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azemetre/azemetre.git"
+  },
+  "keywords": [
+    "azemetre",
+    "terminal",
+    "CLT",
+    "command-line-tool",
+    "node",
+    "npm",
+    "business-card",
+    "american-psycho"
+  ],
+  "author": "Aaron Zemetres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azemetre/azemetre/issues"
+  },
+  "homepage": "https://github.com/azemetre/azemetre#readme",
+  "devDependencies": {
+    "ban-sensitive-files": "1.9.7",
+    "dependency-check": "4.1.0",
+    "deps-ok": "1.4.1",
+    "eslint": "6.8.0",
+    "eslint-plugin-jest": "23.8.2",
+    "eslint-plugin-node": "11.1.0",
+    "git-issues": "1.3.1",
+    "husky": "4.2.5",
+    "jest": "25.5.2",
+    "license-checker": "25.0.1",
+    "lint-staged": "10.2.0",
+    "nsp": "3.2.1",
+    "prettier": "2.0.5"
+  },
+  "dependencies": {
+    "boxen": "4.2.0",
+    "chalk": "4.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  }
+}
