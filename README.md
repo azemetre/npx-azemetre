@@ -6,6 +6,8 @@
 
 Inspired by (and shamelessly copied from) `npx gleb` who was inspired by (and shamelessly copied from) `npx marius`.
 
+![commandline business card](/docs/card.png)
+
 ## Install
 
 Requires [Node](https://nodejs.org/en/) and NPM with `npx` utility.
