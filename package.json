@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azemetre/azemetre.git"
+    "url": "git+https://github.com/azemetre/npx-azemetre.git"
   },
   "keywords": [
     "azemetre",
