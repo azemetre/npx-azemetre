@@ -7,6 +7,7 @@ const lines = [
   "",
   bold("       Web: ") + yellow("https://azemetre.com"),
   bold("    Github: ") + yellow("https://github.com/azemetre"),
+  bold("   Twitter: ") + yellow("https://twitter.com/azemetre"),
   bold("  LinkedIn: ") + yellow("https://linkedin.com/in/aaronzemetres"),
 ];
 
