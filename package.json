@@ -1,6 +1,6 @@
 {
   "name": "azemetre",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "\"npx azemetre\" - to see my business card",
   "main": "./src/index.js",
   "files": [
@@ -33,9 +33,9 @@
   "author": "Aaron Zemetres",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azemetre/azemetre/issues"
+    "url": "https://github.com/azemetre/npx-azemetre/issues"
   },
-  "homepage": "https://github.com/azemetre/azemetre#readme",
+  "homepage": "https://github.com/azemetre/npx-azemetre#readme",
   "devDependencies": {
     "ban-sensitive-files": "1.9.7",
     "dependency-check": "4.1.0",
