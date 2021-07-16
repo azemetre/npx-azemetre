@@ -1,6 +1,6 @@
 {
   "name": "azemetre",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "\"npx azemetre\" - to see my business card",
   "main": "./src/index.js",
   "files": [

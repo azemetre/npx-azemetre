@@ -3,7 +3,7 @@ const { bold, yellow } = require("chalk");
 
 const lines = [
   bold("Aaron Zemetres"),
-  "Senior Software Engineer at Humana",
+  "Data Viz Engineer at Pegasystems",
   "",
   bold("       Web: ") + yellow("https://azemetre.com"),
   bold("    Github: ") + yellow("https://github.com/azemetre"),
@@ -21,4 +21,3 @@ const card = boxen(message, {
 });
 
 module.exports = { card };
-

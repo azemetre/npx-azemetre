@@ -4,7 +4,7 @@ const box = `
        +-------------------------------------------------------+
        |                                                       |
        |   Aaron Zemetres                                      |
-       |   Senior Software Engineer at Humana                  |
+       |   Data Viz Engineer at Pegasystems                    |
        |                                                       |
        |          Web: https://azemetre.com                    |
        |       Github: https://github.com/azemetre             |
