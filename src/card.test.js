@@ -4,7 +4,7 @@ const box = `
        +-------------------------------------------------------+
        |                                                       |
        |   Aaron Zemetres                                      |
-       |   Data Viz Engineer at Pegasystems                    |
+       |   Senior Software Engineer, Data Viz at Pegasystems   |
        |                                                       |
        |          Web: https://azemetre.com                    |
        |       Github: https://github.com/azemetre             |

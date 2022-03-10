@@ -3,7 +3,7 @@ const { bold, yellow } = require("chalk");
 
 const lines = [
   bold("Aaron Zemetres"),
-  "Data Viz Engineer at Pegasystems",
+  "Senior Software Engineer, Data Viz at Pegasystems",
   "",
   bold("       Web: ") + yellow("https://azemetre.com"),
   bold("    Github: ") + yellow("https://github.com/azemetre"),
